@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-jiyeong-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ji-yeong-an-310219247/)](https://www.linkedin.com/in/ji-yeong-an-310219247/)
+[![Instagram Badge](https://img.shields.io/badge/-@a.jyeong-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/a.jyeong/)](https://www.instagram.com/a.jyeong/)
+[![Gmail Badge](https://img.shields.io/badge/-JiYeongAn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:blooming.jyeong@gmail.com)](mailto:blooming.jyeong@gmail.com)
+
 <!--
 [![Website Badge](https://img.shields.io/badge/-JiYeongAn.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://JiYeongAn.me)](https://JiYeongAn.me)
 -->
-[![Instagram Badge](https://img.shields.io/badge/-@__JiYeongAn-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/a.jyeong/)](https://www.instagram.com/a.jyeong/)
-[![Gmail Badge](https://img.shields.io/badge/-JiYeongAn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:blooming.jyeong@gmail.com)](mailto:blooming.jyeong@gmail.com)
+
