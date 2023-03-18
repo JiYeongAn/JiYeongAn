@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm JiYeong. 👋
 
 <!--
 **JiYeongAn/JiYeongAn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/github/gist/stars/JiYeongAn?style=social" alt-text="Github" height="30"/>
 </div>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ji-yeong-an-310219247/)](https://www.linkedin.com/in/ji-yeong-an-310219247/)
+[![Website Badge](https://img.shields.io/badge/-JiYeongAn.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://JiYeongAn.me)](https://JiYeongAn.me)
+[![Instagram Badge](https://img.shields.io/badge/-@__JiYeongAn-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/a.jyeong/)](https://instagram.com/_jessicaalim)
+[![Gmail Badge](https://img.shields.io/badge/-JiYeongAn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:blooming.jyeong@gmail.com)](mailto:blooming.jyeong@gmail.com)
