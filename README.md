@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://img.shields.io/github/gist/stars/JiYeongAn?style=social" alt-text="Github" height="30"/>
+</div>
